@@ -1,13 +1,3 @@
-# The LFE Quick Start - `rebar3` Edition
+# The LFE `mdbook` Theme
 
-This is a version of the LFE quick start that has been re-imagined with
-the LFE rebar3 plugin in mind.
-
-We cover the following:
-
-* How to get started quickly with LFE using just `rebar3` and your local
-  installation of Erlang
-* Creating a new LFE project
-* Looking at LFE code in the REPL and in modules
-* Provide a little insight on how this works
-* Leave you with resources for jumping into LFE in more detail
+This repo is intended to be used as a git submodule in LFE book repos, so that all books may be maintained with the same theme from a single point.
